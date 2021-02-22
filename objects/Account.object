@@ -538,6 +538,48 @@
         <filterScope>Everything</filterScope>
         <label>Platinum and Gold SLA Customers</label>
     </listViews>
+    <recordTypes>
+        <fullName>TestK</fullName>
+        <active>true</active>
+        <description>checking commit diff</description>
+        <label>TestK</label>
+    </recordTypes>
+    <recordTypes>
+        <fullName>TestK2</fullName>
+        <active>true</active>
+        <description>checking commit diff2</description>
+        <label>TestK2</label>
+    </recordTypes>
+    <recordTypes>
+        <fullName>TestK3</fullName>
+        <active>true</active>
+        <description>checking commit diff3</description>
+        <label>TestK3</label>
+    </recordTypes>
+    <recordTypes>
+        <fullName>TestK4</fullName>
+        <active>true</active>
+        <description>checking commit diff4</description>
+        <label>TestK4</label>
+    </recordTypes>
+    <recordTypes>
+        <fullName>TestK5</fullName>
+        <active>true</active>
+        <description>checking commit diff5</description>
+        <label>TestK5</label>
+    </recordTypes>
+    <recordTypes>
+        <fullName>TestK6</fullName>
+        <active>true</active>
+        <description>checking commit diff6</description>
+        <label>TestK6</label>
+    </recordTypes>
+    <recordTypes>
+        <fullName>TestK7</fullName>
+        <active>true</active>
+        <description>checking commit diff7</description>
+        <label>TestK7</label>
+    </recordTypes>
     <searchLayouts>
         <customTabListAdditionalFields>ACCOUNT.NAME</customTabListAdditionalFields>
         <customTabListAdditionalFields>ACCOUNT.ADDRESS1_CITY</customTabListAdditionalFields>
